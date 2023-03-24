@@ -11,8 +11,6 @@ Hi guys, I'm **Marko**. I am a senior full-stack developer having more than 8+ y
 I have worked on +30 CMS, CRM, Mobile, Analysis, Blockchain, eCommerce sites so far.
 
 
-  
-- 💼 Do reach, [email](mailto:marko.topic.work@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
